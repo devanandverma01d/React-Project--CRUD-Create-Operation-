@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Project--CRUD-Create-Operation-/static/css/main.c2cab247.css",
+    "main.js": "/React-Project--CRUD-Create-Operation-/static/js/main.5cf12bf2.js",
+    "index.html": "/React-Project--CRUD-Create-Operation-/index.html",
+    "main.c2cab247.css.map": "/React-Project--CRUD-Create-Operation-/static/css/main.c2cab247.css.map",
+    "main.5cf12bf2.js.map": "/React-Project--CRUD-Create-Operation-/static/js/main.5cf12bf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.5cf12bf2.js"
+  ]
+}
